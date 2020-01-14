@@ -1,0 +1,43 @@
+.flex-container{
+    display: flex;
+    padding-left: 20%;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+    
+}
+
+.flex-container > div {
+    flex: 0 10 600px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    /* width: 300px; */
+    height: 200px;
+
+  }
+  /* @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 992px) {
+    .column {
+      width: 50%;
+    }
+  } */
+  /* * {
+    box-sizing: border-box;
+  } */
+
+  .tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-g4tm{border-color:#333333;text-align:left;vertical-align:middle}
+.tg .tg-zifr{border-color:#333333;text-align:right;vertical-align:bottom}
+.tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
+.tg .tg-ao2g{border-color:#333333;text-align:center;vertical-align:top}
+h1 {
+    text-align: center;
+}
